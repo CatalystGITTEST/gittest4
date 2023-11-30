@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "8844000000021001",
+      "name": "gittest4",
+      "domain": {
+        "id": "1015407818",
+        "name": "gittest4-78997417.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "78997417",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
